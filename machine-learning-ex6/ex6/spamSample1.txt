@@ -1,0 +1,111 @@
+
+ Plus new courses from top educators ... Coursera DS Version ... 
+Tensorflow
+New! TensorFlow: Data and Deployment Specialization from deeplearning.ai
+Bringing a machine learning model into the real world involves a lot more than just modeling. This new, four-course Specialization from deeplearning.ai will teach you how to navigate various deployment scenarios and use data more effectively to train your model. You’ll learn to:  
+Train and run machine learning models in any browser using TensorFlow.js
+Prepare and deploy models on mobile devices using TensorFlow Lite
+Access, organize, and process training data with TensorFlow Data Services
+Continue building your machine learning and TensorFlow skills through hands-on lessons with Laurence Moroney of Google Brain and real-world insights from Andrew Ng.
+Enroll for Free
+4 courses
+AI Enterprise
+New! IBM AI Enterprise Workflow Specialization
+IBM
+Enroll Now
+6 courses
+SQL Basics
+New! Learn SQL Basics for Data Science Specialization
+University of California, Davis
+Enroll Now
+4 courses
+Google Sheets
+New! Getting Started with Google Sheets
+Google Cloud
+Enroll Now
+1 course
+Data Science MATLAB
+New! Practical Data Science with MATLAB Specialization
+MathWorks
+Enroll Now
+4 courses
+Anthos
+New! Architecting Hybrid Cloud Infrastructure with Anthos Specialization
+Google Cloud
+Enroll Now
+3 courses
+GlunoCV
+New! AWS Computer Vision: Getting Started with GluonCV
+AWS
+Enroll Now
+1 course
+Deep Learning
+Deep Learning Specialization
+deeplearning.ai
+Enroll Now
+5 courses
+GIS
+GIS, Mapping, and Spatial Analysis Specialization
+University of Toronto
+Enroll Now
+4 courses
+Python
+Applied Data Science with Python Specialization
+University of Michigan
+Enroll Now
+5 courses
+Exec Data
+Executive Data Science Specialization
+Johns Hopkins University
+Enroll Now
+5 courses
+Data Engineering
+Data Engineering, Big Data, and Machine Learning on GCP Specialization
+Google Cloud
+Enroll Now
+5 courses
+Excel MySQL
+Excel to MySQL: Analytic Techniques for Business Specialization
+Duke University
+Enroll Now
+5 courses
+Degrees
+________________________________
+UIUC MCSDS
+Master of Computer Science in Data Science
+University of Illinois at Urbana-Champaign
+Prepare for a successful career at the intersection of information science and cutting-edge technology.
+Admissions Deadline: February 15th, to start in May 2020
+Apply Now
+HSE MDS
+Master of Data Science
+National Research University Higher School of Economics (HSE University)
+Learn with a top-10 Russian university, featuring applied projects and faculty with experience at leading companies.
+Admissions Deadline: June 19th, to start in Fall 2020
+Apply Now
+MML
+Master of Science of Machine Learning
+Imperial College London
+Develop an in-depth understanding of machine learning models and learn to apply them to real-world problems from one of the top universities in the world.
+Learn More
+Michigan MADS
+Master of Applied Data Science
+University of Michigan
+Develop hands-on skills in programming, statistics, and data visualization as you earn your Master’s.
+Learn More
+Start Now
+50% off for you and a friend
+
+Invite a friend to learn on Coursera. You’ll both get 50% off a course or the first month of a Specialization subscription* when your friend makes their first purchase. Earn up to 10 rewards per year!
+ Referral 
+*Some courses and Specializations are excluded from this offer. In order to receive the reward, invite your friend through a referral link. See the terms and conditions for details.
+Download our mobile app and learn on the go
+iOS	Android
+Connect with Coursera
+FB	Twitter	LI
+Learner Help Center  |  Privacy Policy  |  Email Settings  |  Unsubscribe
+
+© 2019 Coursera | 3﻿81 E. E﻿velyn A﻿ve, M﻿ountain V﻿iew, C﻿A 9﻿4041 U﻿SA
+
+All rights reserved. Coursera and the Coursera logo are registered trademarks of Coursera, Inc. All other trademarks are property of their respective owners.
+
